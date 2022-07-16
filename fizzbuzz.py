@@ -1,7 +1,7 @@
 #!/home/david/miniconda3/envs/pacmann38_wsl/bin/python3
 
 # menerima input angka dari user 
-n = int(input("Masukkan angka yang diinginkan : "))
+n = int(input("Masukkan angka yang diinginkan disini: "))
 
 # loop dari 1 sampai n dan cetak fizz, buzz atau fizzbuzz
 for i in range(1, n+1):
